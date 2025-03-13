@@ -1,4 +1,4 @@
-# Shopping Cart with Zustand & GraphQL
+# Shopping Cart with React and Zustand 
 
 This is a mini shopping cart project built using React, and Zustand for state management. This project aims to demonstrate the integration of GraphQL in React with the help of Apollo Client and manage the global state using Zustand. The design is responsive and achieved using CSS.
 
